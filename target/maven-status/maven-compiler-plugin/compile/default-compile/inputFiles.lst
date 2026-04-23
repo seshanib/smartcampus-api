@@ -1,0 +1,17 @@
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\api\JakartaRestConfiguration.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\api\resources\DiscoveryResource.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\api\resources\RoomResource.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\api\resources\SensorReadingResource.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\api\resources\SensorResource.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\exception\LinkedResourceNotFoundException.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\exception\mappers\GlobalExceptionMapper.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\exception\mappers\LinkedResourceNotFoundMapper.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\exception\mappers\RoomNotEmptyExceptionMapper.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\exception\mappers\SensorUnavailableMapper.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\exception\RoomNotEmptyException.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\exception\SensorUnavailableException.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\filter\LoggingFilter.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\model\Room.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\model\Sensor.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\model\SensorReading.java
+C:\Users\User\Documents\CSA Coursework\smartcampus-api\src\main\java\com\smartcampus\storage\DataStore.java
